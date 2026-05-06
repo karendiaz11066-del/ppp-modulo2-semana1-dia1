@@ -1,0 +1,66 @@
+Bitácora de comando – Módulo 2 Semana 1 Día 1
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Comando nuevo del día:
+npm install express
+
+Escribe los comandos que usaste durante la práctica.
+
+1. Comando usado para clonar el repositorio:
+
+Respuesta:
+
+2. Comando usado para entrar a la carpeta del proyecto:
+
+Respuesta:
+
+3. Comando usado para crear tu rama personal:
+
+Respuesta:
+
+4. Comando usado para verificar la rama:
+
+Respuesta:
+
+5. Comando usado para instalar Express:
+
+Respuesta:
+
+6. Comando usado para levantar el servidor:
+
+Respuesta:
+
+7. Ruta abierta para probar la página principal:
+
+Respuesta:
+
+8. Ruta abierta para probar la campaña:
+
+Respuesta:
+
+9. Ruta abierta para probar avisos:
+
+Respuesta:
+
+10. Comando usado para probar POST:
+
+Respuesta:
+
+11. Comando usado para revisar cambios en Git:
+
+Respuesta:
+
+12. Comando usado para agregar cambios:
+
+Respuesta:
+
+13. Comando usado para crear commit:
+
+Respuesta:
+
+14. Comando usado para publicar la rama:
+
+Respuesta:
