@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
   res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable.")
 })
 
-app.get("/campania", (req, res) => {
+app.get("/campaña", (req, res) => {
   res.send("Campaña: comunicación clara, convivencia digital y participación ciudadana.")
 })
 
@@ -17,7 +17,7 @@ app.get("/avisos", (req, res) => {
   res.send("Avisos comunitarios: verificar información, cuidar el lenguaje y evitar rumores.")
 })
 
-app.post("/propuestas", (req, res) => {
+app.post("/puestas", (req, res) => {
   const propuesta = req.body
 
   console.log("Propuesta recibida:")
